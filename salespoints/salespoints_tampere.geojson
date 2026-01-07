@@ -207,35 +207,6 @@
     },
     {
       "type": "Feature",
-      "id": "8",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.77133,
-          61.498309
-        ]
-      },
-      "properties": {
-        "category": "SALES_POINT",
-        "name": "R-kioski Hämeenkatu 1",
-        "name_fi": "R-kioski Hämeenkatu 1",
-        "name_se": "R-kioski Hämeenkatu 1",
-        "name_en": "R-kioski Hämeenkatu 1",
-        "popup": "R-kioski Hämeenkatu 1",
-        "text": "R-kioski Hämeenkatu 1\nHämeenkatu 1, Tampere",
-        "city": "Tampere",
-        "city_sv": "Tampere",
-        "city_en": "Tampere",
-        "address": "Hämeenkatu 1",
-        "address_en": "Hämeenkatu 1",
-        "address_sv": "Hämeenkatu 1",
-        "icon": {
-          "id": "icon_sales_point"
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": "9",
       "geometry": {
         "type": "Point",
@@ -287,64 +258,6 @@
         "address": "Keskustori 1",
         "address_en": "Keskustori 1",
         "address_sv": "Keskustori 1",
-        "icon": {
-          "id": "icon_sales_point"
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "11",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.755655,
-          61.49919
-        ]
-      },
-      "properties": {
-        "category": "SALES_POINT",
-        "name": "R-kioski Puutarhakatu 10",
-        "name_fi": "R-kioski Puutarhakatu 10",
-        "name_se": "R-kioski Puutarhakatu 10",
-        "name_en": "R-kioski Puutarhakatu 10",
-        "popup": "R-kioski Puutarhakatu 10",
-        "text": "R-kioski Puutarhakatu 10\nPuutarhakatu 10, Tampere",
-        "city": "Tampere",
-        "city_sv": "Tampere",
-        "city_en": "Tampere",
-        "address": "Puutarhakatu 10",
-        "address_en": "Puutarhakatu 10",
-        "address_sv": "Puutarhakatu 10",
-        "icon": {
-          "id": "icon_sales_point"
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "12",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.775862,
-          61.47163
-        ]
-      },
-      "properties": {
-        "category": "SALES_POINT",
-        "name": "R-kioski Koivistonkylä",
-        "name_fi": "R-kioski Koivistonkylä",
-        "name_se": "R-kioski Koivistonkylä",
-        "name_en": "R-kioski Koivistonkylä",
-        "popup": "R-kioski Koivistonkylä",
-        "text": "R-kioski Koivistonkylä\nKoivistontie 10, Tampere",
-        "city": "Tampere",
-        "city_sv": "Tampere",
-        "city_en": "Tampere",
-        "address": "Koivistontie 10",
-        "address_en": "Koivistontie 10",
-        "address_sv": "Koivistontie 10",
         "icon": {
           "id": "icon_sales_point"
         }
@@ -526,64 +439,6 @@
     },
     {
       "type": "Feature",
-      "id": "19",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.780028,
-          61.499484
-        ]
-      },
-      "properties": {
-        "category": "SALES_POINT",
-        "name": "R-kioski Tammelan Puistokatu 35",
-        "name_fi": "R-kioski Tammelan Puistokatu 35",
-        "name_se": "R-kioski Tammelan Puistokatu 35",
-        "name_en": "R-kioski Tammelan Puistokatu 35",
-        "popup": "R-kioski Tammelan Puistokatu 35",
-        "text": "R-kioski Tammelan Puistokatu 35\nTammelan puistokatu 35, Tampere",
-        "city": "Tampere",
-        "city_sv": "Tampere",
-        "city_en": "Tampere",
-        "address": "Tammelan puistokatu 35",
-        "address_en": "Tammelan puistokatu 35",
-        "address_sv": "Tammelan puistokatu 35",
-        "icon": {
-          "id": "icon_sales_point"
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "20",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.627688,
-          61.505948
-        ]
-      },
-      "properties": {
-        "category": "SALES_POINT",
-        "name": "R-kioski Tesoma",
-        "name_fi": "R-kioski Tesoma",
-        "name_se": "R-kioski Tesoma",
-        "name_en": "R-kioski Tesoma",
-        "popup": "R-kioski Tesoma",
-        "text": "R-kioski Tesoma\nTesoman valtatie 37, Tampere",
-        "city": "Tampere",
-        "city_sv": "Tampere",
-        "city_en": "Tampere",
-        "address": "Tesoman valtatie 37",
-        "address_en": "Tesoman valtatie 37",
-        "address_sv": "Tesoman valtatie 37",
-        "icon": {
-          "id": "icon_sales_point"
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": "21",
       "geometry": {
         "type": "Point",
@@ -693,35 +548,6 @@
         "address": "Välikatu 14",
         "address_en": "Välikatu 14",
         "address_sv": "Välikatu 14",
-        "icon": {
-          "id": "icon_sales_point"
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "25",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.649064,
-          61.466199
-        ]
-      },
-      "properties": {
-        "category": "SALES_POINT",
-        "name": "R-kioski Pirkkala",
-        "name_fi": "R-kioski Pirkkala",
-        "name_se": "R-kioski Pirkkala",
-        "name_en": "R-kioski Pirkkala",
-        "popup": "R-kioski Pirkkala",
-        "text": "R-kioski Pirkkala\nSuupantie 2, Pirkkala",
-        "city": "Pirkkala",
-        "city_sv": "Pirkkala",
-        "city_en": "Pirkkala",
-        "address": "Suupantie 2",
-        "address_en": "Suupantie 2",
-        "address_sv": "Suupantie 2",
         "icon": {
           "id": "icon_sales_point"
         }
