@@ -3,7 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": "1",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -29,11 +28,11 @@
           "id": "icon_sales_point",
           "svg": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 345.83 345.83\">\n  <defs>\n    <style>\n      .cls-1 {\n        fill: #fff;\n      }\n\n      .cls-2 {\n        fill: #1a4a8f;\n      }\n\n      .cls-3 {\n        fill: #1c57cf;\n      }\n    </style>\n  </defs>\n  <g id=\"sininen_pallotausta\">\n    <g>\n      <path class=\"cls-1\" d=\"M172.91,340.83c-92.59,0-167.91-75.33-167.91-167.91S80.33,5,172.91,5s167.91,75.33,167.91,167.91-75.33,167.91-167.91,167.91Z\"/>\n      <path class=\"cls-2\" d=\"M172.91,10c43.52,0,84.43,16.95,115.2,47.72s47.72,71.68,47.72,115.2-16.95,84.43-47.72,115.2-71.68,47.72-115.2,47.72-84.43-16.95-115.2-47.72c-30.77-30.77-47.72-71.68-47.72-115.2S26.95,88.49,57.72,57.72c30.77-30.77,71.68-47.72,115.2-47.72M172.91,0C77.42,0,0,77.42,0,172.91s77.42,172.91,172.91,172.91,172.91-77.42,172.91-172.91S268.41,0,172.91,0h0Z\"/>\n    </g>\n  </g>\n  <g id=\"NYSSE_VALKOINEN\" data-name=\"NYSSE VALKOINEN\">\n    <g>\n      <path class=\"cls-2\" d=\"M255.21,233.59c.57,1.71.87,3.46.9,5.17V107.55c0-9.71-7.87-17.58-17.58-17.58s-17.58,7.87-17.58,17.58v78.69c14.68,13.02,28.14,29.07,34.25,47.35Z\"/>\n      <path class=\"cls-2\" d=\"M90.59,112.48c-.55-1.68-.84-3.38-.88-5.07,0,.04,0,.09,0,.13v131.25c0,9.71,7.87,17.58,17.58,17.58s17.58-7.87,17.58-17.58v-78.68c-20.82-18.4-30.17-35.19-34.27-47.64Z\"/>\n      <path class=\"cls-3\" d=\"M238.54,256.38c-7.36,0-14.21-4.65-16.67-12.01-5.94-17.79-26.99-38.19-57.75-55.98-49.72-28.75-67.43-56.84-73.52-75.34-3.04-9.22,1.97-19.16,11.19-22.2,9.22-3.04,19.16,1.97,22.2,11.19,5.83,17.69,26.87,38.07,57.73,55.91,22.38,12.94,61.7,39.93,73.5,75.27,3.08,9.21-1.9,19.17-11.1,22.24-1.85.62-3.72.91-5.57.91Z\"/>\n    </g>\n  </g>\n</svg>"
         }
-      }
+      },
+      "id": "1"
     },
     {
       "type": "Feature",
-      "id": "2",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -58,11 +57,11 @@
         "icon": {
           "id": "icon_sales_point"
         }
-      }
+      },
+      "id": "2"
     },
     {
       "type": "Feature",
-      "id": "3",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -87,11 +86,11 @@
         "icon": {
           "id": "icon_sales_point"
         }
-      }
+      },
+      "id": "3"
     },
     {
       "type": "Feature",
-      "id": "4",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -116,11 +115,11 @@
         "icon": {
           "id": "icon_sales_point"
         }
-      }
+      },
+      "id": "4"
     },
     {
       "type": "Feature",
-      "id": "5",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -145,11 +144,11 @@
         "icon": {
           "id": "icon_sales_point"
         }
-      }
+      },
+      "id": "5"
     },
     {
       "type": "Feature",
-      "id": "6",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -174,11 +173,11 @@
         "icon": {
           "id": "icon_sales_point"
         }
-      }
+      },
+      "id": "6"
     },
     {
       "type": "Feature",
-      "id": "7",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -203,11 +202,11 @@
         "icon": {
           "id": "icon_sales_point"
         }
-      }
+      },
+      "id": "7"
     },
     {
       "type": "Feature",
-      "id": "9",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -232,11 +231,11 @@
         "icon": {
           "id": "icon_sales_point"
         }
-      }
+      },
+      "id": "9"
     },
     {
       "type": "Feature",
-      "id": "10",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -261,11 +260,11 @@
         "icon": {
           "id": "icon_sales_point"
         }
-      }
+      },
+      "id": "10"
     },
     {
       "type": "Feature",
-      "id": "13",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -290,11 +289,11 @@
         "icon": {
           "id": "icon_sales_point"
         }
-      }
+      },
+      "id": "13"
     },
     {
       "type": "Feature",
-      "id": "14",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -319,11 +318,11 @@
         "icon": {
           "id": "icon_sales_point"
         }
-      }
+      },
+      "id": "14"
     },
     {
       "type": "Feature",
-      "id": "15",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -348,11 +347,11 @@
         "icon": {
           "id": "icon_sales_point"
         }
-      }
+      },
+      "id": "15"
     },
     {
       "type": "Feature",
-      "id": "16",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -377,11 +376,11 @@
         "icon": {
           "id": "icon_sales_point"
         }
-      }
+      },
+      "id": "16"
     },
     {
       "type": "Feature",
-      "id": "17",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -406,11 +405,11 @@
         "icon": {
           "id": "icon_sales_point"
         }
-      }
+      },
+      "id": "17"
     },
     {
       "type": "Feature",
-      "id": "18",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -435,11 +434,11 @@
         "icon": {
           "id": "icon_sales_point"
         }
-      }
+      },
+      "id": "18"
     },
     {
       "type": "Feature",
-      "id": "21",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -464,11 +463,11 @@
         "icon": {
           "id": "icon_sales_point"
         }
-      }
+      },
+      "id": "21"
     },
     {
       "type": "Feature",
-      "id": "22",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -493,11 +492,11 @@
         "icon": {
           "id": "icon_sales_point"
         }
-      }
+      },
+      "id": "22"
     },
     {
       "type": "Feature",
-      "id": "23",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -522,11 +521,11 @@
         "icon": {
           "id": "icon_sales_point"
         }
-      }
+      },
+      "id": "23"
     },
     {
       "type": "Feature",
-      "id": "24",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -551,11 +550,11 @@
         "icon": {
           "id": "icon_sales_point"
         }
-      }
+      },
+      "id": "24"
     },
     {
       "type": "Feature",
-      "id": "26",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -580,11 +579,11 @@
         "icon": {
           "id": "icon_sales_point"
         }
-      }
+      },
+      "id": "26"
     },
     {
       "type": "Feature",
-      "id": "27",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -609,11 +608,11 @@
         "icon": {
           "id": "icon_sales_point"
         }
-      }
+      },
+      "id": "27"
     },
     {
       "type": "Feature",
-      "id": "28",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -638,11 +637,11 @@
         "icon": {
           "id": "icon_sales_point"
         }
-      }
+      },
+      "id": "28"
     },
     {
       "type": "Feature",
-      "id": "30",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -667,11 +666,40 @@
         "icon": {
           "id": "icon_sales_point"
         }
-      }
+      },
+      "id": "29"
     },
     {
       "type": "Feature",
-      "id": "31",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.655531,
+          61.466891
+        ]
+      },
+      "properties": {
+        "category": "SALES_POINT",
+        "name": "Huoltoasema Lehtiset",
+        "name_fi": "Huoltoasema Lehtiset",
+        "name_se": "Huoltoasema Lehtiset",
+        "name_en": "Huoltoasema Lehtiset",
+        "popup": "Huoltoasema Lehtiset",
+        "text": "Huoltoasema Lehtiset\nKurikantie 2, Tampere",
+        "city": "Pirkkala",
+        "city_sv": "Pirkkala",
+        "city_en": "Pirkkala",
+        "address": "Kurikantie 2",
+        "address_en": "Kurikantie 2",
+        "address_sv": "Kurikantie 2",
+        "icon": {
+          "id": "icon_sales_point"
+        }
+      },
+      "id": "30"
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -696,11 +724,11 @@
         "icon": {
           "id": "icon_sales_point"
         }
-      }
+      },
+      "id": "31"
     },
     {
       "type": "Feature",
-      "id": "32",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -725,11 +753,11 @@
         "icon": {
           "id": "icon_sales_point"
         }
-      }
+      },
+      "id": "32"
     },
     {
       "type": "Feature",
-      "id": "33",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -754,11 +782,11 @@
         "icon": {
           "id": "icon_sales_point"
         }
-      }
+      },
+      "id": "33"
     },
     {
       "type": "Feature",
-      "id": "34",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -783,11 +811,11 @@
         "icon": {
           "id": "icon_sales_point"
         }
-      }
+      },
+      "id": "34"
     },
     {
       "type": "Feature",
-      "id": "35",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -812,11 +840,11 @@
         "icon": {
           "id": "icon_sales_point"
         }
-      }
+      },
+      "id": "35"
     },
     {
       "type": "Feature",
-      "id": "36",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -841,11 +869,11 @@
         "icon": {
           "id": "icon_sales_point"
         }
-      }
+      },
+      "id": "36"
     },
     {
       "type": "Feature",
-      "id": "37",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -870,11 +898,11 @@
         "icon": {
           "id": "icon_sales_point"
         }
-      }
+      },
+      "id": "37"
     },
     {
       "type": "Feature",
-      "id": "38",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -899,11 +927,11 @@
         "icon": {
           "id": "icon_sales_point"
         }
-      }
+      },
+      "id": "38"
     },
     {
       "type": "Feature",
-      "id": "39",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -928,11 +956,11 @@
         "icon": {
           "id": "icon_sales_point"
         }
-      }
+      },
+      "id": "39"
     },
     {
       "type": "Feature",
-      "id": "40",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -958,7 +986,8 @@
           "id": "icon_service_point",
           "svg": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 345.83 345.83\">\n  <defs>\n    <style>\n      .cls-1 {\n        fill: #fff;\n      }\n\n      .cls-2 {\n        fill: #1c57cf;\n      }\n    </style>\n  </defs>\n  <g id=\"sininen_pallotausta\">\n    <rect class=\"cls-2\" y=\"0\" width=\"345.83\" height=\"345.83\" rx=\"48.19\" ry=\"48.19\"/>\n  </g>\n  <g id=\"NYSSE_VALKOINEN\" data-name=\"NYSSE VALKOINEN\">\n    <path class=\"cls-1\" d=\"M256.12,238.51s0-.06,0-.09c.05,7.4-4.6,14.32-12,16.79-1.85.62-3.72.91-5.57.91-7.36,0-14.21-4.65-16.67-12.01-5.94-17.79-26.99-38.19-57.75-55.98-16.29-9.41-29.12-18.76-39.25-27.72v78.12c0,9.71-7.87,17.58-17.58,17.58s-17.58-7.87-17.58-17.58V107.62s0-.08,0-.12v-.21s0-.09,0-.13c0,.03,0,.06,0,.08.02-7.36,4.69-14.21,12.07-16.64,9.22-3.04,19.16,1.97,22.2,11.19,5.83,17.69,26.87,38.07,57.73,55.91,10.81,6.25,25.55,15.78,39.25,27.93v-78.34c0-9.71,7.87-17.58,17.58-17.58s17.58,7.87,17.58,17.58v130.87s0,.05,0,.07v.27Z\"/>\n  </g>\n</svg>"
         }
-      }
+      },
+      "id": "40"
     }
   ]
 }
