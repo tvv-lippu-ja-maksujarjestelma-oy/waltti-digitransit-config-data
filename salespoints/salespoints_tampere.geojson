@@ -964,8 +964,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.760179,
-          61.500397
+          23.758922,
+          61.500058
         ]
       },
       "properties": {
@@ -975,13 +975,13 @@
         "name_se": "Nyssen asiakaspalvelu",
         "name_en": "Nysse customer service",
         "popup": "Nyssen asiakaspalvelu",
-        "text": "Nyssen asiakaspalvelu\nFrenckellinaukio 2 B, Tampere",
+        "text": "Nyssen asiakaspalvelu\nAleksis Kiven katu 14–16 B, Tampere",
         "city": "Tampere",
         "city_sv": "Tampere",
         "city_en": "Tampere",
-        "address": "Frenckellinaukio 2 B",
-        "address_en": "Frenckellinaukio 2 B",
-        "address_sv": "Frenckellinaukio 2 B",
+        "address": "Aleksis Kiven katu 14–16 B",
+        "address_en": "Aleksis Kiven katu 14–16 B",
+        "address_sv": "Aleksis Kiven katu 14–16 B",
         "icon": {
           "id": "icon_service_point",
           "svg": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 345.83 345.83\">\n  <defs>\n    <style>\n      .cls-1 {\n        fill: #fff;\n      }\n\n      .cls-2 {\n        fill: #1c57cf;\n      }\n    </style>\n  </defs>\n  <g id=\"sininen_pallotausta\">\n    <rect class=\"cls-2\" y=\"0\" width=\"345.83\" height=\"345.83\" rx=\"48.19\" ry=\"48.19\"/>\n  </g>\n  <g id=\"NYSSE_VALKOINEN\" data-name=\"NYSSE VALKOINEN\">\n    <path class=\"cls-1\" d=\"M256.12,238.51s0-.06,0-.09c.05,7.4-4.6,14.32-12,16.79-1.85.62-3.72.91-5.57.91-7.36,0-14.21-4.65-16.67-12.01-5.94-17.79-26.99-38.19-57.75-55.98-16.29-9.41-29.12-18.76-39.25-27.72v78.12c0,9.71-7.87,17.58-17.58,17.58s-17.58-7.87-17.58-17.58V107.62s0-.08,0-.12v-.21s0-.09,0-.13c0,.03,0,.06,0,.08.02-7.36,4.69-14.21,12.07-16.64,9.22-3.04,19.16,1.97,22.2,11.19,5.83,17.69,26.87,38.07,57.73,55.91,10.81,6.25,25.55,15.78,39.25,27.93v-78.34c0-9.71,7.87-17.58,17.58-17.58s17.58,7.87,17.58,17.58v130.87s0,.05,0,.07v.27Z\"/>\n  </g>\n</svg>"
